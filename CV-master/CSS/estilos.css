@@ -1,0 +1,59 @@
+html{
+font-size: 95%
+
+}
+
+h1 {
+
+    text-align: center;
+    color:rgb(9, 9, 131)
+}
+
+h1{
+    background-color: rgb(165, 165, 250);
+    font-size: 3rem;
+}
+
+h2{
+text-align: center;
+color:rgb(9, 9, 131)
+}
+
+h2{
+    background-color: rgb(165, 165, 250);
+    font-size: 2rem;
+}
+
+h3{
+    text-align: center;
+    color:rgb(9, 9, 131)
+    
+}
+
+h3{
+    font-size: 2rem;
+    background-color: rgb(165, 165, 250);
+}
+h4{
+background-color: rgb(165, 165, 250);
+font-size: 2rem;
+}
+
+h4{
+    color: rgb(9, 9, 131);
+    text-align: center;
+}
+
+h4{
+    padding-left: 2rem;
+}
+
+.centered{
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.centered{
+    text-align: center;
+}
